@@ -1,3 +1,4 @@
+# this is thr bubble sort alogorithm
 def bubble_sort(n):
     l= len(n)
     for i in range(l-1,0,-1):
